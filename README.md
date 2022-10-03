@@ -55,5 +55,6 @@ There are my analytics projects and web development through courses.
 | Project Name | Description | Languages |
 |---|---|---|
 | [Personal Site](https://github.com/wareenan/Personal-Website) | Create my personal website for Job applicants. | _HTML, CSS_ |
+| [QR Code](https://github.com/wareenan/qr-code-challenge)| Build QR code Component and get it looking as close to the design as possible. | _HTML, CSS_|
 
 ***
