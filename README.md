@@ -38,6 +38,7 @@ There are my analytics projects and web development through courses.
 ## Power BI
 | Project Name | Description | Dashboard |
 |---|---|---|
+| [Data Professional Survey Breakdown](https://github.com/wareenan/Data-Professional-Survey-Breakdown.git)|To analyze survey on data professionals|-|
 | comming soon... | | |
 
 
