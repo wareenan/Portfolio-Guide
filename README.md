@@ -38,8 +38,8 @@ There are my analytics projects and web development through courses.
 ## Power BI
 | Project Name | Description | Dashboard |
 |---|---|---|
-| [Data Professional Survey Breakdown](https://github.com/wareenan/Data-Professional-Survey-Breakdown.git)|To analyze survey on data professionals| [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGY4MDU2MzctNmZlNC00MmU2LThhMTQtM2MxMDc0ODQ1NzY1IiwidCI6ImNmODFmMWRmLWRlNTktNGMyOS05MWRhLWEyZGZkMDRhYTc1MSIsImMiOjEwfQ%3D%3D)|
-| [My Spotify Analysis 2022](https://github.com/wareenan/My-Spotify-Analysis-2022)|To analyze my spotify data | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmU0NTg2NzMtZTNhMi00OTdmLTkyNmYtYThhNzkyNmQxZjFmIiwidCI6ImNmODFmMWRmLWRlNTktNGMyOS05MWRhLWEyZGZkMDRhYTc1MSIsImMiOjEwfQ%3D%3D&pageName=ReportSection)|
+| [Data Professional Survey Breakdown](https://github.com/wareenan/Data-Professional-Survey-Breakdown.git)|To analyze survey on data professionals | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGY4MDU2MzctNmZlNC00MmU2LThhMTQtM2MxMDc0ODQ1NzY1IiwidCI6ImNmODFmMWRmLWRlNTktNGMyOS05MWRhLWEyZGZkMDRhYTc1MSIsImMiOjEwfQ%3D%3D)|
+| [My Spotify Analysis 2022](https://github.com/wareenan/My-Spotify-Analysis-2022)|To analyze my personal spotify data | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmU0NTg2NzMtZTNhMi00OTdmLTkyNmYtYThhNzkyNmQxZjFmIiwidCI6ImNmODFmMWRmLWRlNTktNGMyOS05MWRhLWEyZGZkMDRhYTc1MSIsImMiOjEwfQ%3D%3D&pageName=ReportSection)|
 
 
 ***
@@ -47,7 +47,7 @@ There are my analytics projects and web development through courses.
 ## Tableau
 | Project Name | Description | Dashboard |
 |---|---|---|
-| comming soon... | | |
+| [Executive Overview](https://github.com/wareenan/Executive-Overview) | To analyze sample superstore data and create dashboard | [Dashboard](https://public.tableau.com/app/profile/wareenan/viz/ExecutiveOverviewSample-SuperstoreData/ExecutiveOverview) |
 
 
 ***
